@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zaki Anshari</h1>
-<h3 align="center">Fullstack Developer | Laravel & Vue.js Enthusiast</h3>
+<h3 align="center">Passionate Fullstack Developer specializing in Laravel & Vue.js</h3>
 
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
